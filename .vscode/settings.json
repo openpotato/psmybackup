@@ -1,0 +1,6 @@
+
+{
+    "powershell.pester.codeLens": true,
+    "powershell.pester.useLegacyCodeLens": false,
+    "powershell.pester.outputVerbosity": "Detailed"
+}
